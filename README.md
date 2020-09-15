@@ -1,3 +1,9 @@
+This Project was deployed using Firebase. 
+
+Live Demo here:
+
+https://spotify-rebuild.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
