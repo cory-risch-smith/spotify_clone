@@ -3,8 +3,8 @@ export const initialState = {
   playlists: [],
   playing: false,
   item: null,
-  // token:
-  //   "BQDVJODtKqT6o9cTrawb2B7aLFWceYRpqAYP2OBfp7l-_OaP-hL5Vep4R4DrQoYc76s-HcmSzXXFsusMAIuoqJBZZGcaPyImVs4Grwa-x1TMqftKCBSXqZ9Acl1Mnb8VnExDQ3u4eOUoIm4QLuDs6uJF-l5xOBCtwn8pS2kveMc1GRYj",
+  token:
+    "BQDVJODtKqT6o9cTrawb2B7aLFWceYRpqAYP2OBfp7l-_OaP-hL5Vep4R4DrQoYc76s-HcmSzXXFsusMAIuoqJBZZGcaPyImVs4Grwa-x1TMqftKCBSXqZ9Acl1Mnb8VnExDQ3u4eOUoIm4QLuDs6uJF-l5xOBCtwn8pS2kveMc1GRYj",
   //   //set initial value JUST WHILE DEBUGGING to token string from console.log test from app.js
   //   //This will bypass login steps and bring you to welcome page
 };
